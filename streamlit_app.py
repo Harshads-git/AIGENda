@@ -1,5 +1,3 @@
-from dotenv import load_dotenv
-load_dotenv() #loads the env vars from .env
 import streamlit as st
 import os #picking up env vars
 from PIL import Image
